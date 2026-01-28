@@ -1,0 +1,8 @@
+# Robots.txt for Best Candle Warmers UK
+# https://bestcandlewarmers.co.uk
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://bestcandlewarmers.co.uk/sitemap.xml
